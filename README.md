@@ -1,16 +1,45 @@
-### Hi there 👋
+<a target="_blank" href="/"><img width="550" align="right" src="https://cdn.pixabay.com/photo/2018/08/18/13/27/browser-3614768__340.png"></a>
 
-<!--
-**muntakim1/muntakim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Muntakimur Rahaman
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:muntakim1104001@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dharunurrashid97&suffix=%20Followers)](https://twitter.com/muntakimurr)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muntakimur-rahaman-36a555133/)
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/munta_insta/)
+[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/muntakim)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+:wave: Hi there, My name is Muntakimur Rahaman.😀 I'm 23 years old, I'm a self-taught Data Scientist and Full Stack Web developer.
+I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. 
+Currently, I Pursuing my Undergraduate Degree in CSE from BAIUST,Bangladesh. 
+I'm interested in doing research on text and image related problems and love to build Ai powered tools and Data products. 
+I eager to work with new technologies and playing with Data and AI.🤖
+
+## {...} My Stack
+
+```json
+{
+   "languages": ["Python", "Java","Javscript","SQL"],
+   "backend": ["Django","Flask"],
+   "frontend": ["html", "css","Javscript","VUE"],
+   "databases": ["mysql","postgresql","ORACLE"],
+   "devops": ["Docker","nginx"],
+   "ai framework":["Keras","PyTorch","Scikit-learn","PySpark"],
+   "experimenting": ["Django", "Heroku"]
+}
+```
+## :tada: Achievements
+
+<ul>
+<li>
+     <b>Deeplearning.Ai (Ai for medicine): </b> Independent contributer,2020
+   </li>
+  <li>
+     <b>Coursera Certification: </b>IBM DATA SCIENCE Professional Certification, 2020
+   </li>
+  <li>
+     <b>Coursera Certification: </b>IBM Applied Data Science Specialist Certification, 2020
+   </li>
+  
+</ul>
