@@ -44,3 +44,6 @@ I eager to work with new technologies and playing with Data and AI.🤖
    </li>
   
 </ul>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=muntakim1&show_icons=true">
