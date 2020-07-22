@@ -37,10 +37,16 @@ I eager to work with new technologies and playing with Data and AI.🤖
      <b>Deeplearning.Ai (Ai for medicine): </b> Independent contributer,2020
    </li>
   <li>
-     <b>Coursera Certification: </b>IBM DATA SCIENCE Professional Certification, 2020
+     <b>Coursera Certification: </b><a href="https://www.coursera.org/account/accomplishments/professional-cert/64JUW6C2R4WT"> IBM DATA SCIENCE Professional Certification, 2020</a>
    </li>
   <li>
-     <b>Coursera Certification: </b>IBM Applied Data Science Specialist Certification, 2020
+     <b>Coursera Certification: </b><a href="https://www.coursera.org/account/accomplishments/specialization/SHYAPJS48MGN"> IBM Applied Data Science Specialist Certification, 2020</a>
+   </li>
+   <li>
+      <b>Coursera Certification: </b> <a href="https://www.coursera.org/account/accomplishments/specialization/2E4Y4V9A4YUR" >Tensorflow in Practice, 2020</a>
+   </li>
+   <li>
+     <b>Coursera Certification: </b><a href="https://www.coursera.org/account/accomplishments/records/N49K7RFXMVBZ"> Machine learning , 2020</a>
    </li>
   
 </ul>
