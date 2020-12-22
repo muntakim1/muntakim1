@@ -1,4 +1,4 @@
-<a target="_blank" href="/"><img width="550" align="right" src="https://ppcgeeks.co.uk/wp-content/uploads/2019/05/home-banner.gif"></a>
+<a target="_blank" href="/"><img width="550" align="right" src="/home-banner.gif"></a>
 
 # Muntakimur Rahaman
 
