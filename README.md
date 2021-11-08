@@ -24,7 +24,7 @@ I eager to work with new technologies and playing with Data and AI.🤖
    "backend": ["Django","Flask"],
    "frontend": ["html", "css","Javscript","VUE"],
    "databases": ["mysql","postgresql","ORACLE"],
-   "Cloud": ["GCP","IBM"],
+   "Cloud": ["AWS","GCP","IBM"],
    "devops": ["Docker","nginx"],
    "ai framework":["Keras","PyTorch","Scikit-learn","PySpark"],
    "experimenting": ["Django", "Heroku"]
