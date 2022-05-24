@@ -33,9 +33,13 @@ I eager to work with new technologies and playing with Data and AI.🤖
 ## :tada: Achievements
 
 <ul>
-<li>
-     <b>Deeplearning.Ai (Ai for medicine): </b> Independent contributer,2020
+   <li>
+     <b>IBM certification: <a href="https://www.credly.com/badges/9536a13b-88d4-4a69-852b-e2ef45543142/public_url">Spark - Level 1,2022</a>
    </li>
+      <li>
+         WorldQuant University: <a href="https://www.credly.com/badges/cb94013e-0b13-4ad0-9f08-61363386f55c/public_url">Applied Data Science I: Scientific Computing & Python (with honors),2021</a>
+   </li>
+      
   <li>
      <b>Coursera Certification: </b><a href="https://www.coursera.org/account/accomplishments/professional-cert/64JUW6C2R4WT"> IBM DATA SCIENCE Professional Certification, 2020</a>
    </li>
