@@ -22,7 +22,7 @@ I eager to work with new technologies and playing with Data and AI.🤖
 {
    "languages": ["Python", "Java","Javscript","SQL"],
    "backend": ["Django","Flask","Dash"],
-   "frontend": ["html", "css","Javscript","ReactJS"],
+   "frontend": ["html", "css","Vanilla JS","ReactJS"],
    "databases": ["mysql","postgresql","ORACLE"],
    "Cloud": ["AWS","GCP","IBM"],
    "devops": ["Docker","nginx"],
