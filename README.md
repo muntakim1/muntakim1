@@ -21,13 +21,13 @@ I eager to work with new technologies and playing with Data and AI.🤖
 ```json
 {
    "languages": ["Python", "Java","Javscript","SQL"],
-   "backend": ["Django","Flask"],
-   "frontend": ["html", "css","Javscript","VUE"],
+   "backend": ["Django","Flask","Dash"],
+   "frontend": ["html", "css","Javscript","ReactJS"],
    "databases": ["mysql","postgresql","ORACLE"],
    "Cloud": ["AWS","GCP","IBM"],
    "devops": ["Docker","nginx"],
-   "ai framework":["Keras","PyTorch","Scikit-learn","PySpark"],
-   "experimenting": ["Django", "Heroku"]
+   "ai framework":["Keras","Tensorflow","PyTorch","PyCaret","Scikit-learn","PySpark"],
+   "experimenting": ["Django", "Heroku","Github Actions"]
 }
 ```
 ## :tada: Achievements
