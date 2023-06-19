@@ -12,7 +12,7 @@
 
 :wave: Hi there, My name is Muntakimur Rahaman.😀 I'm 25 years old, I'm a self-taught Data Scientist and Full Stack Web developer.
 I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. 
-Currently, I pursuing my Undergraduate Degree in CSE from BAIUST,Bangladesh. 
+Graduated from BAIUST with a Bachelor Degree in CSE ,Bangladesh. Currently working in Innova-analytics.ai as a Data Scientist.
 I'm interested in doing research on text and image related problems and love to build Ai powered tools and Data products. 
 I eager to work with new technologies and playing with Data and AI.🤖
 
