@@ -3,7 +3,8 @@
 # Muntakimur Rahaman
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:muntakim1104001@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%muntakimurr&suffix=%20Followers)](https://x.com/muntakimurr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/muntakimurr
+)](https://x.com/muntakimurr)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muntakimur-rahaman-36a555133/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/munta_insta/)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/muntakim)
@@ -30,6 +31,14 @@ I eager to work with new technologies and playing with Data and AI.🤖
    "experimenting": ["Django", "Heroku","Github Actions"]
 }
 ```
+## :office: Working at Innova-analytics.ai
+At Innova-analytics.ai, I work with cutting-edge technologies and contribute to exciting projects. Some highlights of my work include:
+
+- :robot: Implementing YOLO models for advanced object detection.
+- :chart_with_upwards_trend: Conducting Time Series Analytics for insightful predictions.
+- :globe_with_meridians: Collaborating with clients from Oman and Australia to deliver tailored solutions.
+- :computer: Working on diverse projects, from AI-driven tools to complex Data Analytics.
+
 ## :tada: Achievements
 
 <ul>
@@ -47,13 +56,14 @@ I eager to work with new technologies and playing with Data and AI.🤖
      <b>Coursera Certification: </b><a href="https://www.coursera.org/account/accomplishments/specialization/SHYAPJS48MGN"> IBM Applied Data Science Specialist Certification, 2020</a>
    </li>
    <li>
-      <b>Coursera Certification: </b> <a href="https://www.coursera.org/account/accomplishments/specialization/2E4Y4V9A4YUR" >Tensorflow in Practice, 2020</a>
+      <b>Coursera Certification: </b> <a href="https://www.coursera.org/account/accomplishments/specialization/2E4Y4V9A4YUR" >DeepLearning.AI TensorFlow Developer, 2020</a>
    </li>
    <li>
      <b>Coursera Certification: </b><a href="https://www.coursera.org/account/accomplishments/records/N49K7RFXMVBZ"> Machine learning , 2020</a>
    </li>
   
 </ul>
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=muntakim1&show_icons=true">
