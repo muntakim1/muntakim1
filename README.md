@@ -1,4 +1,4 @@
-<a target="_blank" href="/"><img width="550" align="right" src="/home-banner.gif"></a>
+<a target="_blank" href="/"><img width="500" align="right" src="/home-banner.gif"></a>
 
 # Muntakimur Rahaman
 
@@ -11,11 +11,38 @@
 
 
 
-:wave: Hi there, My name is Muntakimur Rahaman.😀 I'm 25 years old, I'm a self-taught Data Scientist and Full Stack Web developer.
-I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. 
-Graduated from BAIUST with a Bachelor Degree in CSE ,Bangladesh. Currently working in Innova-analytics.ai as a Data Scientist.
-I'm interested in doing research on time series event analysis, LLM and computer vision related problems and love to build Ai powered tools and Data products. 
-I eager to work with new technologies and playing with Data and AI.🤖
+# Hello, I'm Muntakimur Rahaman! 👋
+
+I'm a 26-year-old self-taught Data Scientist and Full Stack Web Developer based in Bangladesh. I hold a Bachelor's Degree in Computer Science and Engineering from BAIUST. Currently, I'm contributing to the field as a Data Scientist at Innova-analytics.ai.
+
+## About Me
+- 💼 **Current Role**: Data Scientist at Innova-analytics.ai
+  
+   - :robot: Implementing YOLO models for advanced object detection.
+   - :chart_with_upwards_trend: Conducting Time Series Analytics for insightful predictions.
+   - :globe_with_meridians: Collaborating with clients from Oman and Australia to deliver tailored solutions.
+   - :computer: Working on diverse projects, from AI-driven tools to complex Data Analytics.
+- 🎓 **Education**: Bachelor's Degree in CSE from BAIUST, Bangladesh
+
+## Expertise
+I have a strong background and proficiency in the following areas:
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📊 Natural Language Processing
+- 🖥 AI Software Development
+
+## Passion and Research
+I'm passionate about exploring and researching:
+- ⏰ Time Series Event Analysis
+- 🤖 LLM
+- 👁 Computer Vision
+
+## Projects
+I enjoy building AI-powered tools and Data products. Some of my interests include:
+- 🔄 Working with new technologies
+- 📊 Playing with Data and AI
+
+Feel free to connect with me for collaborations or discussions on exciting projects! 😊
 
 ## {...} My Stack
 
@@ -31,13 +58,6 @@ I eager to work with new technologies and playing with Data and AI.🤖
    "experimenting": ["Django", "Heroku","Github Actions"]
 }
 ```
-## :office: Working at Innova-analytics.ai
-At Innova-analytics.ai, I work with cutting-edge technologies and contribute to exciting projects. Some highlights of my work include:
-
-- :robot: Implementing YOLO models for advanced object detection.
-- :chart_with_upwards_trend: Conducting Time Series Analytics for insightful predictions.
-- :globe_with_meridians: Collaborating with clients from Oman and Australia to deliver tailored solutions.
-- :computer: Working on diverse projects, from AI-driven tools to complex Data Analytics.
 
 ## :tada: Achievements
 
