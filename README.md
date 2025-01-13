@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/muntakimurr)](https://x.com/muntakimurr)
 [![LinkedIn Connect](https://img.shields.io/badge/Linkedin-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muntakim1/)
 [![GitHub Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=github&logoColor=ffffff)](https://github.com/muntakim1)
-[![Download CV](https://img.shields.io/badge/Download_CV-blue)]("https://github.com/muntakim1/muntakim1/blob/master/Muntakim_DS.pdf")
+[![Download CV](https://img.shields.io/badge/Download_CV-blue)]("/Muntakim_DS.pdf")
 
 ---
 
