@@ -4,9 +4,12 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:muntakim.cse@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Twitter Follow](https://img.shields.io/twitter/follow/muntakimurr)](https://x.com/muntakimurr)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muntakim1/)
+[![LinkedIn Connect](https://img.shields.io/badge/Linkedin-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muntakim1/)
 [![GitHub Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=github&logoColor=ffffff)](https://github.com/muntakim1)
-[![Download CV](https://img.shields.io/badge/download_cv-blue)]("https://github.com/muntakim1/muntakim1/blob/master/Muntakim_DS.pdf")
+[![Download CV](https://img.shields.io/badge/Download_CV-blue)]("https://github.com/muntakim1/muntakim1/blob/master/Muntakim_DS.pdf")
+
+---
+
 I'm a **Data Scientist** and **Full Stack Web Developer** based in **Bangladesh**. With over **4 years of experience**, I specialize in **geospatial analysis**, **computer vision**, and **time series modeling**. I currently work as a **Senior Data Scientist at Innova Analytics**.
 
 ---
