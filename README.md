@@ -1,7 +1,3 @@
-Here’s the rewritten version of your introduction and portfolio with additional information from your PDF file:
-
----
-
 <a target="_blank" href="/"><img width="500" align="right" src="/home-banner.gif"></a>
 
 # Hello, I'm Muntakimur Rahaman! 👋
