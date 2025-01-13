@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/muntakimurr)](https://x.com/muntakimurr)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muntakim1/)
 [![GitHub Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=github&logoColor=ffffff)](https://github.com/muntakim1)
-
+[![Download CV](https://img.shields.io/badge/download_cv-blue)]("./muntakim_ds.pdf")
 I'm a **Data Scientist** and **Full Stack Web Developer** based in **Bangladesh**. With over **4 years of experience**, I specialize in **geospatial analysis**, **computer vision**, and **time series modeling**. I currently work as a **Senior Data Scientist at Innova Analytics**.
 
 ---
