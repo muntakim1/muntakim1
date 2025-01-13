@@ -1,86 +1,74 @@
+Here’s the rewritten version of your introduction and portfolio with additional information from your PDF file:
+
+---
+
 <a target="_blank" href="/"><img width="500" align="right" src="/home-banner.gif"></a>
 
 # Hello, I'm Muntakimur Rahaman! 👋
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:muntakim1104001@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Twitter Follow](https://img.shields.io/twitter/follow/muntakimurr
-)](https://x.com/muntakimurr)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muntakimur-rahaman-36a555133/)
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/munta_insta/)
-[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/muntakim)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:muntakim.cse@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Twitter Follow](https://img.shields.io/twitter/follow/muntakimurr)](https://x.com/muntakimurr)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muntakim1/)
+[![GitHub Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=github&logoColor=ffffff)](https://github.com/muntakim1)
 
+I'm a **Data Scientist** and **Full Stack Web Developer** based in **Bangladesh**. With over **4 years of experience**, I specialize in **geospatial analysis**, **computer vision**, and **time series modeling**. I currently work as a **Senior Data Scientist at Innova Analytics**.
 
-I'm a 26-year-old self-taught Data Scientist and Full Stack Web Developer based in Bangladesh. I hold a Bachelor's Degree in Computer Science and Engineering from BAIUST. Currently, I'm contributing to the field as a Data Scientist at Innova-analytics.ai.
+---
 
-## About Me
-- 💼 **Current Role**: Data Scientist at Innova-analytics.ai
-  
-   - :robot: Implementing YOLO models for advanced object detection.
-   - :chart_with_upwards_trend: Conducting Time Series Analytics for insightful predictions.
-   - :globe_with_meridians: Collaborating with clients from Oman and Australia to deliver tailored solutions.
-   - :computer: Working on diverse projects, from AI-driven tools to complex Data Analytics.
-- 🎓 **Education**: Bachelor's Degree in CSE from BAIUST, Bangladesh
+## **About Me**
+- 💼 **Current Role**: Senior Data Scientist at **Innova Analytics**  
+   - 🚀 Optimizing streaming data techniques for enhanced processing.  
+   - 📊 Developing predictive maintenance dashboards.  
+   - 👁️ Building real-time computer vision systems like PPE detection.  
+   - 🌍 Collaborating with global clients from Oman and Australia.  
 
-## Expertise
-I have a strong background and proficiency in the following areas:
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 📊 Natural Language Processing
-- 🖥 AI Software Development
+- 🎓 **Education**:  
+   - B.Sc. in **Computer Science and Engineering**, **BAIUST**, Bangladesh (GPA: 3.74/4.0)  
 
-## Passion and Research
-I'm passionate about exploring and researching:
-- ⏰ Time Series Event Analysis
-- 🤖 LLM
-- 👁 Computer Vision
+---
 
-## Projects
-I enjoy building AI-powered tools and Data products. Some of my interests include:
-- 🔄 Working with new technologies
-- 📊 Playing with Data and AI
+## **Core Competencies**
+- 📊 Data Analysis & Visualization  
+- 📍 Geospatial & Time Series Modeling  
+- 🖥 Machine Learning & AI (TensorFlow, PyTorch)  
+- 🌐 Dashboard Development (Plotly, Mapbox)  
+- 🛠 Cloud Computing & MLOps  
 
-Feel free to connect with me for collaborations or discussions on exciting projects! 😊
+---
 
-## {...} My Stack
-
+## **Technical Skills**
 ```json
 {
-   "languages": ["Python", "Java","Javscript","SQL"],
-   "backend": ["Django","Flask","Dash"],
-   "frontend": ["html", "css","Vanilla JS","ReactJS"],
-   "databases": ["mysql","postgresql","ORACLE"],
-   "Cloud": ["AWS","GCP","AZURE"],
-   "devops": ["Docker","nginx"],
-   "ai framework":["Keras","Tensorflow","PyTorch","PyCaret","Scikit-learn","PySpark"],
-   "experimenting": ["Django", "Heroku","Github Actions"]
+   "languages": ["Python", "SQL", "ReactJS"],
+   "frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "FastAPI"],
+   "tools": ["Mapbox", "Docker", "LangChain", "MlFlow"],
+   "cloud_services": ["AWS", "GCP"],
+   "experimenting": ["FastAPI", "LangChain", "Heroku"]
 }
 ```
 
-## :tada: Achievements
+---
 
-<ul>
-   <li>
-     <b>IBM certification: <a href="https://www.credly.com/badges/9536a13b-88d4-4a69-852b-e2ef45543142/public_url">Spark - Level 1,2022</a>
-   </li>
-      <li>
-         WorldQuant University: <a href="https://www.credly.com/badges/cb94013e-0b13-4ad0-9f08-61363386f55c/public_url">Applied Data Science I: Scientific Computing & Python (with honors),2021</a>
-   </li>
-      
-  <li>
-     <b>Coursera Certification: </b><a href="https://www.coursera.org/account/accomplishments/professional-cert/64JUW6C2R4WT"> IBM DATA SCIENCE Professional Certification, 2020</a>
-   </li>
-  <li>
-     <b>Coursera Certification: </b><a href="https://www.coursera.org/account/accomplishments/specialization/SHYAPJS48MGN"> IBM Applied Data Science Specialist Certification, 2020</a>
-   </li>
-   <li>
-      <b>Coursera Certification: </b> <a href="https://www.coursera.org/account/accomplishments/specialization/2E4Y4V9A4YUR" >DeepLearning.AI TensorFlow Developer, 2020</a>
-   </li>
-   <li>
-     <b>Coursera Certification: </b><a href="https://www.coursera.org/account/accomplishments/records/N49K7RFXMVBZ"> Machine learning , 2020</a>
-   </li>
-  
-</ul>
+## **Projects**
+- **Pump Run Life Analytics Dashboard**: Optimized equipment uptime with predictive maintenance.  
+- **Real-Time PPE Detection**: Ensured compliance with advanced computer vision systems.  
+- **Geographical Visualization Platform**: Enhanced disaster response using interactive mapping tools.  
+- **Generative Design Algorithms**: Automated urban planning workflows, reducing design cycles by 50%.  
 
+---
 
+## **Achievements & Certifications**
+- **IBM Spark - Level 1 (2022)**  
+   [View Certification](https://www.credly.com/badges/9536a13b-88d4-4a69-852b-e2ef45543142/public_url)  
+- **IBM Data Science Professional Certificate (2020)**  
+   [View Certification](https://www.coursera.org/account/accomplishments/professional-cert/64JUW6C2R4WT)  
+- **DeepLearning.AI TensorFlow Developer (2020)**  
+   [View Certification](https://www.coursera.org/account/accomplishments/specialization/2E4Y4V9A4YUR)  
+- **Applied Data Science I (2021)**  
+   [View Certification](https://www.credly.com/badges/cb94013e-0b13-4ad0-9f08-61363386f55c/public_url)  
+
+---
 
 <img src="https://github-readme-stats.vercel.app/api?username=muntakim1&show_icons=true">
+
+Feel free to connect for discussions or collaborations on exciting AI and data science projects! 😊
