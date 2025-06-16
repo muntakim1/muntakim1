@@ -22,7 +22,7 @@ I'm a **Data Scientist** and **Full Stack Web Developer** based in **Bangladesh*
    - 🌍 Collaborating with global clients from Oman and Australia.  
 
 - 🎓 **Education**:
-   - Master of Engineering Science By Research, Multimedia University, Malaysia. 
+   - **Master of Engineering Science By Research** (Running), Multimedia University, Malaysia. 
    - B.Sc. in **Computer Science and Engineering**, **BAIUST**, Bangladesh (GPA: 3.74/4.0)  
 
 ---
