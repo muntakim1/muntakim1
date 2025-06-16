@@ -21,7 +21,8 @@ I'm a **Data Scientist** and **Full Stack Web Developer** based in **Bangladesh*
    - 👁️ Building real-time computer vision systems like PPE detection.  
    - 🌍 Collaborating with global clients from Oman and Australia.  
 
-- 🎓 **Education**:  
+- 🎓 **Education**:
+   - Master of Engineering Science By Research, Multimedia University, Malaysia. 
    - B.Sc. in **Computer Science and Engineering**, **BAIUST**, Bangladesh (GPA: 3.74/4.0)  
 
 ---
